@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: NewAddon
+## Author: Maxidoo
+## Version: 0.1
+## Dependencies: 
+## SavedVariablesPerCharacter: NewAddonPrefs
+
+main.lua
